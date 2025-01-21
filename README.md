@@ -5,7 +5,7 @@ Learn Git And Github - Training Repository
 >session task: 
 learn about patch in git
 
->completed tasks:
+>tasks:
 1.explore github
 2.perform all git CLI commands 
 3.git using vscode

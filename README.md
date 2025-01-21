@@ -2,7 +2,7 @@
 Learn Git And Github - Training Repository
 
 
-session task: 
+>session task: 
 learn about patch in git
 
 >completed tasks:

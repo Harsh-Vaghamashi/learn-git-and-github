@@ -1,7 +1,7 @@
 # learn-git-and-github
 Learn Git And Github - Training Repository
 session task: 
-explore patch in git
+learn about patch in git
 
 >completed tasks:
 1.explore github

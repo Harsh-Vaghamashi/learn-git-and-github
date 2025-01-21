@@ -1,0 +1,40 @@
+Configuration and Setup:
+Set username globally: git config --global user.name "Your Name"
+Set email globally: git config --global user.email "youremail@example.com"
+Display colored output in the terminal: git config --global color.ui auto
+Initializing a Repository
+Initialize a new Git repository: git init
+Clone a repository from a remote server: git clone <repository_url>
+
+Basic Git Commands:
+Add a specific file to the staging area: git add <file>
+Add all modified and new files to the staging area: git add . or git add --all
+Show the current state of your repository: git status
+Create a new commit with a message: git commit -m "Your commit message"
+
+Branching and Merging:
+List all branches: git branch
+Create a new branch: git branch <branch-name>
+Switch to a specified branch: git checkout <branch-name>
+Merge a specified branch into the current branch: git merge <branch>
+
+Remote Repositories:
+Fetch changes from a remote repository: git fetch
+Pull changes from the remote repository and merge them into the current branch: git pull
+Push local commits to the remote repository: git push
+
+Managing History:
+Revert a specific commit: git revert <commit>
+Rebase the current branch onto the tip of the specified branch: git rebase <branch>
+
+Comparison:
+Show the details of a specific commit: git show <commit>
+Display the differences between two commits: git diff <commit1> <commit2>
+
+Additional Commands:
+Stash changes in the working directory: git stash
+Apply and remove the most recent stash: git stash pop
+List all tags in the repository: git tag
+Create an annotated tag with a custom message: git tag -a <tag-name> -m "Your message"
+
+git rebase
